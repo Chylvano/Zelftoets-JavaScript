@@ -1,9 +1,12 @@
 body {
     background-image: url("stage.png");
     background-color: #cccccc;
+    font-family: 'Press Start 2P', cursive;
    }
 
-.duck{
-    text-align: center;
-    vertical-align: middle;
+#duck{
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
 }
