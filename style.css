@@ -1,0 +1,9 @@
+body {
+    background-image: url("stage.png");
+    background-color: #cccccc;
+   }
+
+.duck{
+    text-align: center;
+    vertical-align: middle;
+}
